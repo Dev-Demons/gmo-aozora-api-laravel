@@ -81,7 +81,8 @@ class Configuration
      *
      * @var string
      */
-    protected $host = 'https://stg-api.gmo-aozora.com/ganb/api/webhooks/v1';
+    //protected $host = 'https://stg-api.gmo-aozora.com/ganb/api/webhooks/v1';
+    protected $host = 'https://api.gmo-aozora.com/ganb/api/webhook/v1';
 
     /**
      * User agent of the HTTP request, set to "PHP-Swagger" by default
