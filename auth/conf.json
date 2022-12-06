@@ -1,0 +1,7 @@
+{
+  "AUTH_BASE_URL": "https://stg-api.gmo-aozora.com/ganb/api/auth/v1",
+  "JWT_ISSUER": "https://stg-api.gmo-aozora.com/",
+  "AUTH_PATH": "/authorization",
+  "TOKEN_PATH": "/token",
+  "SALT": "ILZ-VtbCGcR?QEOv35/R7xX+?A-!3dUY"
+}
